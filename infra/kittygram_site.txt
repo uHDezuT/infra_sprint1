@@ -1,5 +1,5 @@
 IP: 51.250.100.142;
-name_taski: nigataski.ddns.net;
-name_kittygram: shittogramm.ddns.net;
+name_taski: https://nigataski.ddns.net;
+name_kittygram: https://shittogramm.ddns.net;
 login: uHDezuT;
 password: 53qqgz4SS6; 
